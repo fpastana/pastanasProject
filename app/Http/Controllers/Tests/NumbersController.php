@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Tests;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-use App\Numbers;
+use fpastana\Numbers;
 
 class NumbersController extends Controller
 {

@@ -439,12 +439,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fpastana/Fisher-Yates-shuffle.git",
-                "reference": "35ee17fb7170400de9a71f2c4495474c25b489fa"
+                "reference": "74daee7671a7c295759150f961e613509a0aba48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fpastana/Fisher-Yates-shuffle/zipball/35ee17fb7170400de9a71f2c4495474c25b489fa",
-                "reference": "35ee17fb7170400de9a71f2c4495474c25b489fa",
+                "url": "https://api.github.com/repos/fpastana/Fisher-Yates-shuffle/zipball/74daee7671a7c295759150f961e613509a0aba48",
+                "reference": "74daee7671a7c295759150f961e613509a0aba48",
                 "shasum": ""
             },
             "require": {
@@ -456,7 +456,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "App\\": "src"
+                    "fpastana\\": "src"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -466,12 +466,12 @@
                     "email": "felipeapastana@gmail.com"
                 }
             ],
-            "description": "Generate array of random numbers that never repeat themselves",
+            "description": "Generate array of random numbers that never repeat themselves.",
             "support": {
                 "issues": "https://github.com/fpastana/Fisher-Yates-shuffle/issues",
-                "source": "https://github.com/fpastana/Fisher-Yates-shuffle/tree/v1.0.0"
+                "source": "https://github.com/fpastana/Fisher-Yates-shuffle/tree/v1.0.1"
             },
-            "time": "2023-04-06T03:59:07+00:00"
+            "time": "2023-04-06T05:42:55+00:00"
         },
         {
             "name": "fruitcake/php-cors",
